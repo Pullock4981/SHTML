@@ -24,3 +24,30 @@ h2{
     padding: 45px;
     gap: 30px;
 }
+
+/* nav  */
+nav ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+/* main  */
+
+
+
+
+figcaption{
+    /* text-align: center; */
+    margin-top: 5px;
+}
+
+/* footer  */
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
