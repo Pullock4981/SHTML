@@ -75,3 +75,31 @@ td , th{
     padding: 30px;
     border-radius: 5px;
 }
+
+/* navbar  */
+
+nav{
+    background-color: rgb(214, 244, 234);
+    padding: 3px;
+    border-radius: 3px;
+}
+
+nav > ul{
+    display: flex;
+}
+
+nav li{
+    margin-left: 140px;
+    padding: 5px;
+}
+
+nav li a{
+    color: black;
+    font-weight:bolder;
+}
+
+nav li :hover{
+    /* background-color: rgb(87, 116, 107); */
+    color: rgb(244, 8, 8);
+    /* padding: 7px; */
+}
