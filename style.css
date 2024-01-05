@@ -37,7 +37,12 @@ nav li a{
 
 /* main  */
 
-
+.form{
+    margin: 15px;
+    padding: 10px 15px;
+    border-radius: 7px;
+    background-color:rgb(234, 226, 216);
+}
 
 
 figcaption{
